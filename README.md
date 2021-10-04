@@ -1,6 +1,23 @@
-# Google-Data-Analytics-Professional-Certificate
+# Google Data Analytics Capstone Project
 
 
-Case studies I have done as part of this course
-## Bellabeat Marketing Analysis Case Study
+## :woman_cartwheeling:Bellabeat Marketing Analysis 
 
+### How Can a Wellness Technology Company Play It Smart?
+
+<img src="https://user-images.githubusercontent.com/17575943/135906806-a8361413-2e4c-405f-a27c-b187dfdd9393.png"  width="650" >
+
+:pushpin: The Situation
+
+You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused
+products for women. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart
+device fitness data could help unlock new growth opportunities for the company. You have been asked to focus on one of
+Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The
+insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat
+executive team along with your high-level recommendations for Bellabeat’s marketing strategy.
+
+:pushpin: The Brief
+
+
+
+:pushpin: The Objective
