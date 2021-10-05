@@ -25,15 +25,15 @@ device fitness data (Fitbit Fitness Tracker Data) could help unlock new growth o
  
 - We will follow all steps of the data analysis process for this case study: 
 
-1. **Ask**, 
+1. **Ask** 
 
-2. **Prepare**, 
+2. **Prepare** 
 
-3. **Process**, 
+3. **Process** 
 
-4. **Analyze**,
+4. **Analyze**
 
-5. **Share**, 
+5. **Share**
 
 6. **Act**
  
